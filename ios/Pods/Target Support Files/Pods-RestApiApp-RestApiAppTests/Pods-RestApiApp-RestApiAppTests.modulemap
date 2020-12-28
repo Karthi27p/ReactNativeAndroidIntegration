@@ -1,0 +1,6 @@
+module Pods_RestApiApp_RestApiAppTests {
+  umbrella header "Pods-RestApiApp-RestApiAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

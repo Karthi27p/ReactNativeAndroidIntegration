@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98e216af-823d-4a4d-8e69-927c867bea8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/reactnativeintegration/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/DailyHub/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHApiService.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHApiService.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHElecreticityBill/DHElectricityBillCalculatorViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHElecreticityBill/DHElectricityBillViewModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHNews/DHArticleCollectionViewCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHNews/DHArticleTableViewCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHNews/DHNewsCellViewModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHNews/DHNewsViewModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHSplitMoney/DHSplitMoneyView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/DailyHub/DHSplitMoney/DHSplitMoneyViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/Model/DHArticleModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/Model/DHArticleModel.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/Model/DHArticleSourceModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/Model/DHArticleSourceModel.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/Model/DHBiMonthlyConsumption.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/Model/DHBiMonthlyConsumption.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/Model/DHElectricityTarrifModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/Model/DHElectricityTarrifModel.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/Model/DHSplitRate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/Model/DHSplitRate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyHub/StubData/Tarrif.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../DailyHub/StubData/Tarrif.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RNPlist/RNPlist/sample.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../RNPlist/RNPlist/sample.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VictoryChart/Victory/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../VictoryChart/Victory/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fastlane/Fastfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fastlane/Pluginfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fastlane/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fastlane/report.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcodeproj/xcshareddata/xcschemes/AWSMobile-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcodeproj/xcshareddata/xcschemes/AWSMobile.production.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcodeproj/xcshareddata/xcschemes/AWSMobile.staging.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcodeproj/xcshareddata/xcschemes/AWSMobile.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobile/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobileTests/AWSMobileTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/AWSMobileTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-native.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/constants/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/db/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/models/employee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/models/employer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/components/MenuDrawer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Formik/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Formik/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Home/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Home/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Login/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Login/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Pinlock/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Pinlock/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Realm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/modules/scenes/Realm/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/navigations/AppNavigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/navigations/AuthNavigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/navigations/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/resources/images/menu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/services/ApiClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/services/ApiService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/services/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/styles/Themes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/styles/colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/index.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="10.1_WXGA_Tablet_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1mH5ryRuYFTCYxuopwBsWlFCeDC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98e216af-823d-4a4d-8e69-927c867bea8c" name="Default Changelist" comment="" />
+      <created>1609137878451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609137878451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
